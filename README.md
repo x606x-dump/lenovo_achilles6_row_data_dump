@@ -1,0 +1,14 @@
+# full_achilles6_row_data-user 10 QP1A.190711.020 TB-X606X_U release-keys
+- manufacturer: lenovo
+- platform: mt6765
+- codename: achilles6_row_data
+- flavor: full_achilles6_row_data-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: TB-X606X_USR_S300673_2206131545_V9.56_BMP_ROW
+- tags: release-keys
+- fingerprint: 
+- is_ab: false
+- brand: Lenovo
+- branch: full_achilles6_row_data-user-10-QP1A.190711.020-TB-X606X_U-release-keys
+- repo: lenovo_achilles6_row_data_dump
